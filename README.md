@@ -2,6 +2,8 @@
 
 A bot that plays starcraft 2.
 This was part of a computer science course at LiU.
+Be aware that this was my first project at university.
+
 Course TDDE25, https://www.ida.liu.se/~TDDE25/index.en.shtml
 Course gitlab : https://gitlab.ida.liu.se/course-starcraft-ai/TDDE25/wikis/home
 
